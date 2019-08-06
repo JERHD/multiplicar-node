@@ -6,6 +6,6 @@
 
     Ejecutar este comando para decargar los modulos instaldos
 
-    ````
+    ```
     npm install
-    ````
+    ```
